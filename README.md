@@ -1,3 +1,3 @@
 #My First Git Repo
 
-Hello world!
+Hello, World!
